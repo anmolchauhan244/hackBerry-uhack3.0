@@ -1,0 +1,96 @@
+{
+  "Symptoms" : {
+    "stroke" : [ "weakness", "difficulty with speech", " dizziness " ],
+    "Alzheimer" : [ "Memory loss that disrupts daily life", "Challenges in planning or solving problems", "Confusion with time or place", "Trouble understanding visual images and spatial relationships", "New problems with words in speaking or writing", "Misplacing things and losing the ability to retrace steps" ],
+    "Arthritis" : [ "Fatigue, Joint pain, Joint tenderness,Joint swelling ", "Joint redness, Joint warmth, Joint stiffness,Loss of joint range of motion ", "Many joints affected (polyarthritis),Limping, Joint deformity, Both sides of the body affected (symmetric) " ],
+    "Dengue" : [ "Sudden, high fever", "Severe headaches", "Pain behind the eyes, Severe joint and muscle pain", "Fatigue, Nausea,Vomiting", "Skin rash, which appears two to five days after the onset of fever", "Mild bleeding (such a nose bleed, bleeding gums, or easy bruising)" ],
+    "Headache" : [ "nausea", "vomiting ", "fever " ],
+    "Mental Illness" : [ "delusions", "anxiety", "nightmares" ],
+    "Muscle or Joint Problem" : [ "stiffness", "swelling", "inflammation" ],
+    "heart attack" : [ "shortness of breath;", "lightheadedness", "sweat; nausea", " discomfort in other areas of the upper body; " ],
+    "stomach or digestive problems" : [ "constipation", "diarrhea", "heartburn", "acid reflux", "vomiting " ]
+  },
+  "firstaid" : {
+    "Cuts" : {
+      "alt" : "Cuts and Scrapes",
+      "image" : "https://www.wikihow.com/images/thumb/c/c1/Bandage-a-Wound-During-First-Aid-Step-11.jpg/aid509461-v4-728px-Bandage-a-Wound-During-First-Aid-Step-11.jpg.webp",
+      "say" : "Wash hands well. Use a gauze pad or clean cloth to apply pressure to the wound until bleeding stops. Clean the affected area with cool running water or a saline rinse. Rinse tweezers with alcohol and remove dirt or debris at the wound site. Bandage the area if the wound is likely to become dirty or rubs against the body. Change the bandage daily, or when it gets wet or dirty, until a solid scab forms.",
+      "subheading" : "Always follow up first aid for a Cut with a doctor’s visit.",
+      "text" : "Wash hands well. Use a gauze pad or clean cloth to apply pressure to the wound until bleeding stops. Clean the affected area with cool running water or a saline rinse. Rinse tweezers with alcohol and remove dirt or debris at the wound site. Bandage the area if the wound is likely to become dirty or rubs against the body. Change the bandage daily, or when it gets wet or dirty, until a solid scab forms.",
+      "title" : "Cuts and Scrapes",
+      "url" : "https://www.wikihow.com/Treat-Small-Cuts-or-Scratches"
+    },
+    "Insect Stings" : {
+      "alt" : "Insect Stings",
+      "image" : "https://image.slidesharecdn.com/bitesfirstaid-131212224541-phpapp02/95/bites-first-aid-9-638.jpg?cb=1386888542",
+      "say" : "If the stinger is still in the skin, use a credit card or the dull side of a knife to scrap it out. Do not squeeze stingers, as doing so injects more venom into the wound. Wash the affected area with soap and water.  Reduce swelling with an icepack or cool washcloth .Apply calamine lotion to stop swelling. A mixture of water and baking soda also works. Reduce itching with antihistamine or hydrocortisone sprays or creams.",
+      "subheading" : "Always follow up first aid for a Insect Stings with a doctor’s visit.",
+      "text" : "If the stinger is still in the skin, use a credit card or the dull side of a knife to scrap it out. Do not squeeze stingers, as doing so injects more venom into the wound. Wash the affected area with soap and water.  Reduce swelling with an icepack or cool washcloth .Apply calamine lotion to stop swelling. A mixture of water and baking soda also works. Reduce itching with antihistamine or hydrocortisone sprays or creams.",
+      "title" : "Insect Stings",
+      "url" : "https://www.mayoclinic.org/first-aid/first-aid-insect-bites/basics/art-20056593"
+    },
+    "Minor Burns" : {
+      "alt" : "Minor Burns",
+      "image" : "https://www.wikihow.com/images/thumb/c/cb/Treat-a-Burn-Using-Honey-Step-4-Version-3.jpg/aid37387-v4-728px-Treat-a-Burn-Using-Honey-Step-4-Version-3.jpg.webp",
+      "say" : "For minor burns, place the affected area under cool running water for at least five minutes to reduce swelling. Apply a generous amount of antiseptic lotions, antibiotic ointment or aloe vera cream to the affected area, and loosely wrap with gauze. Do not pop blisters or use the old folk remedy of rubbing butter on the burn. Both can lead to skin damage and infection.",
+      "subheading" : "Always follow up first aid for a Minor Burns with a doctor’s visit.",
+      "text" : "For minor burns, place the affected area under cool running water for at least five minutes to reduce swelling. Apply a generous amount of antiseptic lotions, antibiotic ointment or aloe vera cream to the affected area, and loosely wrap with gauze. Do not pop blisters or use the old folk remedy of rubbing butter on the burn. Both can lead to skin damage and infection.",
+      "title" : "Minor Burns",
+      "url" : "https://www.wikihow.com/Treat-a-Burn-Using-Honey"
+    },
+    "Nosebleed" : {
+      "alt" : "Nosebleed",
+      "image" : "https://www.schoolhealth.com/wp/wp-content/uploads/C-Documents-and-Settings-jessicaw-My-Documents-My-Pictures-nosebleed.jpg",
+      "say" : "The nosebleed does not stop. Blood flows in large amounts or rapidly. The injured party feels weak or faint. The blood originates in a physical injury to the head or nose.",
+      "subheading" : "Always follow up first aid for a Nosebleed with a doctor’s visit.",
+      "text" : "The nosebleed does not stop. Blood flows in large amounts or rapidly. The injured party feels weak or faint. The blood originates in a physical injury to the head or nose.",
+      "title" : "Nosebleed",
+      "url" : ""
+    },
+    "Poison Ivy" : {
+      "alt" : "Poison",
+      "image" : "https://image.slidesharecdn.com/awarenessprogrameng-151106054424-lva1-app6892/95/poison-information-center-awareness-first-aid-measures-for-poisoning-12-638.jpg?cb=1446789176",
+      "say" : "As with insect bites, contact with poison ivy or sumac has the potential to cause severe allergic reactions. For less serious reactions wash the skin with soap and lukewarm water to remove as much of the irritating plant oil as possible. Bathing in baking soda or colloidal oatmeal baths can help offer relief. If a bath isn’t possible, apply a cool, wet washcloth to the affected area.",
+      "subheading" : "Always follow up first aid for a Poison with a doctor’s visit.",
+      "text" : "As with insect bites, contact with poison ivy or sumac has the potential to cause severe allergic reactions. For less serious reactions wash the skin with soap and lukewarm water to remove as much of the irritating plant oil as possible. Bathing in baking soda or colloidal oatmeal baths can help offer relief. If a bath isn’t possible, apply a cool, wet washcloth to the affected area.",
+      "title" : "Poison",
+      "url" : "https://www.mayoclinic.org/first-aid/first-aid-poisoning/basics/art-20056657"
+    },
+    "Splinters" : {
+      "alt" : "Splinters",
+      "image" : "https://www.ahchealthenews.com/ahc_scripts/symptom_checker/WebPages3/housecalls/healthimages/fa_splinterremoval.jpg",
+      "say" : "Before trying to remove a splinter, wash the surrounding skin with soapy water. Rinse your tweezers with alcohol and use them to grasp the end of the splinter. Pull the splinter out gently, following the same angle as the entry wound.",
+      "subheading" : "Always follow up first aid for a Splinters with a doctor’s visit.",
+      "text" : "Before trying to remove a splinter, wash the surrounding skin with soapy water. Rinse your tweezers with alcohol and use them to grasp the end of the splinter. Pull the splinter out gently, following the same angle as the entry wound.",
+      "title" : "Splinters",
+      "url" : "https://www.webmd.com/first-aid/splinters-treatment"
+    },
+    "Sprains and Strains" : {
+      "alt" : "Sprains and Strains",
+      "image" : "https://www.wikihow.com/images/thumb/c/cc/Treat-a-Sprain-During-First-Aid-Step-1-Version-2.jpg/aid1291918-v4-728px-Treat-a-Sprain-During-First-Aid-Step-1-Version-2.jpg.webp",
+      "say" : "Another common injury, treat minor sprains and strains by resting the limb, keeping it supported and elevated if possible. Apply an icepack for twenty minutes four to eight times a day, and take OTC meds for pain relief. If necessary for movement, splint the affected area or wrap the limb with an elastic bandage.",
+      "subheading" : "Always follow up first aid for a Sprains and Strains with a doctor’s visit.",
+      "text" : "Another common injury, treat minor sprains and strains by resting the limb, keeping it supported and elevated if possible. Apply an icepack for twenty minutes four to eight times a day, and take OTC meds for pain relief. If necessary for movement, splint the affected area or wrap the limb with an elastic bandage.",
+      "title" : "Sprains and Strains",
+      "url" : "https://www.wikihow.com/Treat-a-Sprain-During-First-Aid"
+    },
+    "Sunburn" : {
+      "alt" : "Sunburn",
+      "image" : "https://www.wikihow.com/images/thumb/8/83/Treat-a-Sunburn-Step-2-Version-6.jpg/aid55442-v4-728px-Treat-a-Sunburn-Step-2-Version-6.jpg.webp",
+      "say" : "An occupational hazard when out in the great outdoors, most sunburns are easy to treat. If possible, take a cool shower or bath. If not, sooth the burn with a cool, damp cloth. Gently pat the skin dry.",
+      "subheading" : "Always follow up first aid for a Sunburn with a doctor’s visit.",
+      "text" : "An occupational hazard when out in the great outdoors, most sunburns are easy to treat. If possible, take a cool shower or bath. If not, sooth the burn with a cool, damp cloth. Gently pat the skin dry.",
+      "title" : "Sunburn",
+      "url" : "https://www.wikihow.com/Treat-a-Sunburn"
+    },
+    "animal bite" : {
+      "alt" : "Animal bite",
+      "image" : "https://image.slidesharecdn.com/sec1-fa10-bitesandstings-101110080013-phpapp02/95/sec1fa10-bites-and-stings-5-638.jpg?cb=1422628575",
+      "say" : "Hold a clean towel or gauze pad over the wound until it stops bleeding. Clean the affected area with soap and water. Cover with a clean bandage or gauze. See a doctor as soon as possible.",
+      "subheading" : "Always follow up first aid for a bite with a doctor’s visit.",
+      "text" : "Hold a clean towel or gauze pad over the wound until it stops bleeding \n : Clean the affected area with soap and water\n : Cover with a clean bandage or gauze \n: See a doctor as soon as possible.",
+      "title" : "Animal Bite",
+      "url" : "https://www.webmd.com/first-aid/animal-bites-treatment"
+    }
+  }
+}
